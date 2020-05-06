@@ -1,4 +1,4 @@
-# BC2_Lars
+# BC2_Mark
 bettercodehub: [![BCH compliance](https://bettercodehub.com/edge/badge/web3assignments/BC2_Lars?branch=master)](https://bettercodehub.com/) 
 <br> 
 THUASMinorBlockchain_20192020D_IT repository for BC2_Mark
